@@ -8,4 +8,4 @@ I'm a totally newcomer of Github or even the code world. I truely have been year
 
 #comeback
 
-Here I am again, after almost 2 months pause.
+Here I am again, after almost 2 months pause..
